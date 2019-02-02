@@ -3,17 +3,17 @@
     "name": "Apartamento Grand Bali Resort",
     "icons": [
       {
-        "src": "images/Fotos_Apartamento/icon-1x",
+        "src": "images/Fotos_Apartamento/icon-1x.jpg",
         "type": "image/jpg",
         "sizes": "48x48"
       },
       {
-        "src": "images/Fotos_Apartamento/icon-2x",
+        "src": "images/Fotos_Apartamento/icon-2x.jpg",
         "type": "image/jpg",
         "sizes": "96x96"
       },
       {
-        "src": "images/Fotos_Apartamento/icon-4x",
+        "src": "images/Fotos_Apartamento/icon-4x.jpg",
         "type": "image/jpg",
         "sizes": "192x192"
       }
