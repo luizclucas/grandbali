@@ -1,0 +1,22 @@
+{
+    "short_name": "Ap Grand Bali",
+    "name": "Apartamento Grand Bali Resort",
+    "icons": [
+      {
+        "src": "images/Fotos_Apartamento/icon-1x",
+        "type": "image/jpg",
+        "sizes": "48x48"
+      },
+      {
+        "src": "images/Fotos_Apartamento/icon-2x",
+        "type": "image/jpg",
+        "sizes": "96x96"
+      },
+      {
+        "src": "images/Fotos_Apartamento/icon-4x",
+        "type": "image/jpg",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "index.html?launcher=true"
+  }
