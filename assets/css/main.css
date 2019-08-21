@@ -1849,7 +1849,7 @@ input, select, textarea {
 				display: block;
 				position: absolute;
 				top: 0;
-				width: 50%;
+				width: 41%;
 				height: 100%;
 				background: #152E33;
 				overflow: hidden;
@@ -2014,8 +2014,7 @@ input, select, textarea {
 				#header header p:before {
 					content: '';
 					display: block;
-					border-top: solid 1px rgba(255, 255, 255, 0.5);
-					margin: 4px 0 0.8em 0;
+					border-top: solid 1px rgba(7, 20, 80, 1);
 				}
 
 		#header footer {
@@ -2031,6 +2030,11 @@ input, select, textarea {
 			bottom: 9em;
 			margin: 0;
 			width: 100%;
+		}
+
+		.darkblue
+		{
+			color: rgba(7, 20, 80, 1) !important;
 		}
 
 			#header footer:after {
